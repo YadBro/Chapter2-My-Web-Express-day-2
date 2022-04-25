@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "moment": "^2.29.3"
+  },
+  "name": "introduction-node",
+  "version": "1.0.0",
+  "description": "Testing Web",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "nodemon index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yadi Apriyadi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
